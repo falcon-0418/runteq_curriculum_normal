@@ -48,6 +48,8 @@ gem 'ransack', '2.3.0'
 
 gem 'config', '2.0.0'
 
+gem 'enum_help', '0.0.17'
+
 group :development, :test do
   gem 'byebug', platforms: %i[mri mingw x64_mingw]
   gem 'faker'
